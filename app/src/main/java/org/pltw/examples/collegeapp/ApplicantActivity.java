@@ -14,7 +14,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-
+//just adding a comment to test github
 public class ApplicantActivity extends ActionBarActivity {
 
     private static final String TAG = "ApplicantActivity";
